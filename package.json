@@ -1,0 +1,12 @@
+{
+  "name": "test-project",
+  "author":"AlexTrava ",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "its test project",
+  "repository": "github:AlexTrava/hexlet-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
